@@ -36,6 +36,6 @@ install: true
 notifications:
   email:
     recipients:
-      - AndriyKalashnykov@gmail.com
+      - pi6eon@gmail.com
     on_success: change
     on_failure: always
